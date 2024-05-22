@@ -1,12 +1,12 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { HeaderComponent } from "./shared/header/header.component"
-import { BodyComponent } from "./body.component"
+import { SpeedymarksComponent } from "./speedymarks.component"
 import { FooterComponent } from "./shared/footer/footer.component"
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, HeaderComponent, BodyComponent, FooterComponent],
+  imports: [RouterOutlet, HeaderComponent, SpeedymarksComponent, FooterComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
