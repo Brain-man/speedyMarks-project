@@ -1,6 +1,8 @@
 # SpeedyMarksProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
+Проект для створення/перегляду "Заміток" через інтерфейс браузеру на ангулярі.
+Службова інформація збережена --
+(This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.)
 
 ## Development server
 
